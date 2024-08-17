@@ -14,7 +14,7 @@ function Footer() {
               </h5>
             </div>
 
-            <div class="flex justify-center gap-7 mt-3 text-slate-700 font-bold">
+            <div class="flex justify-center gap-7 mt-3 text-slate-700 font-bold text-center">
               <p>Let's Get Started Into The World Of Financial Freedom</p>
             </div>
             <div class="flex justify-center gap-7 mt-3 text-red-700 font-bold">
