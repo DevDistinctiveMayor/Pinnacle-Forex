@@ -22,7 +22,7 @@ function Footer() {
             </div>
 
             <div class="flex justify-center gap-5 mt-5">
-              <a href="https://wa.link/px9eei">
+              <a href="https://www.facebook.com/profile.php?id=61563855221184&mibextid=LQQJ4d">
                 <FaFacebook fontSize={25} class="text-blue-700" />
               </a>
               <a href="https://wa.link/8aaoag">
