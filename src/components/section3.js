@@ -1,5 +1,5 @@
 import React from 'react'
-import img from './img/f2.jpg'
+import img from './img/f5.jpeg'
 import img3 from './img/f4.jpg'
 function section3() {
   return (

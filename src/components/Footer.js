@@ -18,7 +18,7 @@ function Footer() {
               <p>Let's Get Started Into The World Of Financial Freedom</p>
             </div>
             <div class="flex justify-center gap-7 mt-3 text-red-700 font-bold">
-              <p>Contact Us Here Now!!!</p>
+              <p>Get In Touch With Us!!!</p>
             </div>
 
             <div class="flex justify-center gap-5 mt-5">
@@ -38,11 +38,11 @@ function Footer() {
             </div>
 
             <div class="flex justify-center gap-5 mt-5 text-slate-700 font-bold">
-              PhoneNo
+              Call Us
             </div>
             <a
-              href="tel:08145706421"
-              class="flex justify-center gap-5  text-slate-700 font-bold"
+              href="tel:+2348145706421"
+              class="flex justify-center gap-5  text-slate-700 font-bold underline"
             >
               +234 814 570 6421
             </a>

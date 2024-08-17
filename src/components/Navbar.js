@@ -22,9 +22,9 @@ const Navbar = () => {
 
   return (
     <div className="p-4 fixed w-full bg-slate-400 shadow-2xl shadow-[#1f344578] z-20">
-      <nav className="flex justify-evenly sm:justify-around">
+      <nav className="flex justify-between">
         <div>
-          <h1 className="text-[15px] sm:w-fit font-bold lg:text-2xl text-slate-700">
+          <h1 className="text-[22px] sm:w-fit font-bold lg:text-2xl text-slate-700">
             Pinnacle Forex Trading
           </h1>
         </div>

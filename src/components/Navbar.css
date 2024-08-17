@@ -1,9 +1,9 @@
 .menu-toggle {
     position: relative;
     cursor: pointer;
-    width: 30px;
-    height: 14px;
-    margin-top: 0.2rem;
+    width: 37px;
+    height: 19px;
+    margin-top: 0.4rem;
   }
   
   .menu-toggle span {
