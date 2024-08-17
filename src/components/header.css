@@ -1,0 +1,12 @@
+.client-review-container {
+    /* background-color: black; */
+    
+    opacity: 0.8;
+    background-image:  radial-gradient(#ff0000 0.5px, transparent 0.5px), radial-gradient(#ffffff 0.5px, rgb(37, 41, 47)0.5px);
+    background-size: 20px 20px;
+    background-position: 0 0,10px 10px;
+    height: 35rem;
+    width:100%;
+   
+    /* z-index: 1; */
+  }
