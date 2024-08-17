@@ -25,7 +25,7 @@ function Footer() {
               <a href="https://wa.link/px9eei">
                 <FaFacebook fontSize={25} class="text-blue-700" />
               </a>
-              <a href="https://wa.link/px9eei">
+              <a href="https://wa.link/8aaoag">
                 <FaWhatsapp fontSize={25} class="text-green-700" />
               </a>
             </div>
